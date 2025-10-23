@@ -119,7 +119,7 @@ SecureBank is a banking application built with a Spring Boot backend and a nativ
 ### Running the Backend
 1. Clone the repository:
    ```bash
-   git clone https://github.com/harshagnihotri10/SecureBank.git
+   git clone https://github.com/izna1021/SecureBank.git
 
    ```
 2. Navigate to the backend directory:
