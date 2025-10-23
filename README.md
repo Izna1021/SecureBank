@@ -90,9 +90,6 @@ SecureBank is a banking application built with a Spring Boot backend and a nativ
 <img src="screenshots/credit-toast.jpg" alt="Credit Toast Notification" width="200" />  
 <img src="screenshots/debit-toast.jpg" alt="Debit Toast Notification" width="200" />  
 
-#### Database  
-<img src="screenshots/workbench.png" alt="Database View" width="200" />  
-
 #### Swagger-UI  
 <img src="screenshots/swagger.png" alt="Swagger-UI" width="200" />  
 
