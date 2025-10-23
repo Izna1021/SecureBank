@@ -52,16 +52,10 @@ SecureBank is a banking application built with a Spring Boot backend and a nativ
 <img src="screenshots/home-page.png" alt="Home Screen" width="200" />  
 
 #### Login Page  
-<img src="screenshots/login-page.jpg" alt="Login Page" width="200" />  
-
-#### Registration Page  
-<img src="screenshots/registration.jpg" alt="Registration Page" width="200" />  
+<img src="screenshots/login-page.png" alt="Login Page" width="200" />  
 
 #### Operations Page  
 <img src="screenshots/operations-page.png" alt="Operations Page" width="200" />  
-
-#### Account Details Page  
-<img src="screenshots/account-details.jpg" alt="Account Details Page" width="200" />  
 
 #### Credit Account Page  
 <img src="screenshots/credit-page.jpg" alt="Credit Account Page" width="200" />  
@@ -101,10 +95,6 @@ SecureBank is a banking application built with a Spring Boot backend and a nativ
 
 #### Swagger-UI  
 <img src="screenshots/swagger-ui.png" alt="Swagger-UI" width="200" />  
-
-#### Postman API Hit  
-<img src="screenshots/account-creation-response.png" alt="Postman API Account Creation Response" width="200" />  
-<img src="screenshots/postman-registration-api.png" alt="Postman Registration API" width="200" />  
 
 ---  
 
